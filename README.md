@@ -1,5 +1,5 @@
 # DeepUFC2
-#### Follow up on DeepUFC and now include data scraping and implementation in PyTorch.
+#### Followup on DeepUFC and now includes data scraping and implementation in PyTorch.
 
 - ufc_bouts: crawler for ufc bouts  
 - ufc_fighters: crawler for ufc fighters  
