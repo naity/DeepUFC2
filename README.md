@@ -1,8 +1,6 @@
 # DeepUFC2
 #### Followup on DeepUFC and now includes data scraping and implementation in PyTorch.
 
-- ufc_bouts: crawler for ufc bouts  
-- ufc_fighters: crawler for ufc fighters  
 - ufc_bouts.csv: ufc bouts dataset  
 - ufc_fighters.csv: ufc fighters dataset  
 - ufc_combined.csv: combined dataset used for deep learning  
